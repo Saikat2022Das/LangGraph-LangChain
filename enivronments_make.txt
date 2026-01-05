@@ -1,0 +1,4 @@
+pip install langgraph
+pip install langchain
+pip install dotenv
+pip install -U "langchain[google-genai]"
