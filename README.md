@@ -1,4 +1,4 @@
-# UPSC Parallel Workflow (summary)
+# Parallel Workflow (LangGraph)
 
 Short description
 - This notebook implements a parallel evaluation workflow for an essay using LangGraph + LangChain chat models.
