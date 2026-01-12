@@ -1,5 +1,8 @@
 # Iterative LLM-Powered Tweet Generation and Refinement with LangGraph
 
+<img width="368" height="399" alt="Screenshot from 2026-01-12 18-34-56" src="https://github.com/user-attachments/assets/47df11f7-bc53-414a-9ea8-873da99f744a" />
+
+
 This notebook demonstrates how to build an autonomous, iterative content generation and refinement system using LangGraph, a library for building stateful, multi-actor applications with LLMs.
 
 ## What you will learn:
