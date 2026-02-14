@@ -1,0 +1,1 @@
+## Text Structured Spliter: RecursiveCharacterTextSplitter, Semantic Meaning Based Spliter: SemanticChunker, Python Code Spliter: from langchain_text_splitters import RecursiveCharacterTextSplitter,Language
